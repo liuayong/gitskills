@@ -4,5 +4,11 @@
     echo "I 'am liuayong" ; 
     echo "I 'am liuayong" ; 
 
-
+echo <<<AA
 sdfsf
+=======
+32342311
+
+AA;
+
+
